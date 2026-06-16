@@ -39,17 +39,17 @@ I am a Grade 11 ICT Student who loves to self-study, explore new tech, and build
 #### 1. My Personal Portfolio
 * **Description:** My personal portfolio website showcasing my web development projects and journey.
 * **Link:** [chon-dev-portfolio.netlify.app](https://chon-dev-portfolio.netlify.app/)
-* **Stack:** HTML5, CSS3, JavaScript
+* **Stack:** HTML, CSS, JavaScript
 
 #### 2. Jera & Jimson Anniversary Project
 * **Description:** An interactive anniversary web application built with personalized layouts and transitions.
 * **Link:** [jera-jimson-anniv.netlify.app](https://jera-jimson-anniv.netlify.app/)
-* **Stack:** HTML5, CSS3, JavaScript
+* **Stack:** HTML, CSS, JavaScript
 
 #### 3. Commision Surprise Web App
 * **Description:** A surprise web app featuring interactive front-end elements and custom animations.
 * **Link:** [hapib-surprise-web.netlify.app](https://hapib-surprise-web.netlify.app/)
-* **Stack:** HTML5, CSS3, JavaScript
+* **Stack:** HTML, CSS, JavaScript
 
 ---
 
