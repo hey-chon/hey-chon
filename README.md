@@ -58,9 +58,9 @@ I am a Grade 11 ICT Student who loves to self-study, explore new tech, and build
 ### Performance Metrics
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ilogchon500-code&show_icons=true&theme=tokyonight&count_private=true" alt="Jimson's GitHub Stats" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hey-chon&show_icons=true&theme=tokyonight&count_private=true" alt="Jimson's GitHub Stats" height="180px" />
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilogchon500-code&layout=compact&theme=tokyonight" alt="Top Languages" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hey-chon&layout=compact&theme=tokyonight" alt="Top Languages" height="180px" />
 </p>
 
 ---
