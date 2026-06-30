@@ -41,18 +41,8 @@ I am a Grade 11 ICT Student who loves to self-study, explore new tech, and build
 
 ---
 
-### 📊 Performance Metrics
-
-<p align="left">
-  <img src="https://github-readme-stats.xyz/api?username=hey-chon&show_icons=true&theme=dracula&count_private=true&cache_seconds=1800" alt="Jimson's GitHub Stats" height="180" />
-  <img src="https://github-readme-stats.xyz/api/top-langs/?username=hey-chon&layout=compact&theme=dracula&cache_seconds=1800" alt="Top Languages" height="180" />
-</p>
-
----
-
 ### ✉️ Contact & Network
 * **Portfolio:** [chon-dev-portfolio.netlify.app](https://chon-dev-portfolio.netlify.app/)
 * **Email:** ilogjimson1215@gmail.com
 * **Facebook:** [Jimson Ilog](https://www.facebook.com/defnot.chon)
 * **Instagram** [hey.chon](https://www.instagram.com/hey.chon?utm_source=qr)
-* 
