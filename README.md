@@ -86,7 +86,7 @@
 
 ---
 
-### 📬 Connect with Me
+### 💁 Connect with Me
 
 - **Portfolio**: [chon.is-a.dev](https://chon.is-a.dev)
 - **GitHub**: [hey-chon](https://github.com/hey-chon)
