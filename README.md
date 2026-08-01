@@ -1,72 +1,113 @@
-# About-Me
-
----
-# Hello World, I'm Chon
+# Hi there, I'm Jimson Ilog 👋  
+### *aka Chon* · Student Web Developer
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=hey-chon&label=Profile%20views&color=0cb4d8&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=hey-chon&label=Profile%20views&color=0cb4d8&style=flat-square" alt="Profile views" />
 </p>
 
-### Biography
-I am a Grade 11 ICT Student who loves to self-study, explore new tech, and build projects using an AI-assisted workflow. As a student developer, I focus on creating clean and responsive websites. So far, I have built over 13+ web projects using HTML, CSS, and JavaScript, and I also hold 3 online course certifications from government and non-government organizations.
+<!-- Typing Text -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=0CB4D8&center=false&vCenter=true&width=500&lines=Student+Web+Developer;Always+Learning+%26+Building;AI-Assisted+Workflow;Open+to+Collaborations)](https://git.io/typing-svg)
+
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbW1qZ2F0c3R0Z2F0c3R0Z2F0c3R0Z2F0c3R0Z2F0c3R0ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7btPCcdNniyf0ArS/giphy.gif" width="280" alt="Anime coding" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdG9wZ2F0c3R0Z2F0c3R0Z2F0c3R0Z2F0c3R0Z2F0c3R0ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0MYC0LajbaPoEA2Q/giphy.gif" width="280" alt="Anime wave" />
+</p>
+
+Passionate **Grade 11 ICT student** from **Naic, Cavite, Philippines**.  
+I love building clean, responsive websites and continuously learning new technologies — especially with an AI-assisted workflow.
+
+Currently holding **13+ web projects** and always open to collaboration, internships, and new challenges.
 
 ---
 
-### Technical Stack & Tools
+### 👨‍💻 About Me
 
-**Frontend Engineering**
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/typescript-%233178C6.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232A.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+- 🎓 Senior High School student specializing in **Information & Communication Technology (NCII)** at Cavite Community Academy Inc.
+- 💻 Focused on **front-end development** and currently expanding into back-end
+- ⚡ Fast learner, detail-oriented, and collaborative
+- 🏆 Consistent With Honors (Grade 7–10) · General averages: 94.25 | 93.00 | 94.30 | 93.25
+- 🌱 Always learning, always building
 
-**Programming Languages & Backend**
-![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-
-**Design & Workflow Automation**
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Replit](https://img.shields.io/badge/replit-%2366717F.svg?style=for-the-badge&logo=replit&logoColor=white)
-![Google Gemini](https://img.shields.io/badge/gemini-%238E75C2.svg?style=for-the-badge&logo=googlegemini&logoColor=white)
-![Claude AI](https://img.shields.io/badge/claude-%23D97706.svg?style=for-the-badge&logo=anthropic&logoColor=white)
-![Antigravity](https://img.shields.io/badge/antigravity-%232D3748.svg?style=for-the-badge)
----
-
-### Featured Projects
-
-#### 1. My Personal Portfolio
-* **Description:** My personal portfolio website showcasing my web development projects and journey.
-* **Link:** [chon-dev-portfolio.netlify.app](https://chon-dev-portfolio.netlify.app/)
-* **Stack:** HTML, CSS, JavaScript
-
-#### 2. Jera & Jimson Anniversary Project
-* **Description:** An interactive anniversary web application built with personalized layouts and transitions.
-* **Link:** [jera-jimson-anniv.netlify.app](https://jera-jimson-anniv.netlify.app/)
-* **Stack:** HTML, CSS, JavaScript
-
-#### 3. Commision Surprise Web App
-* **Description:** A surprise web app featuring interactive front-end elements and custom animations.
-* **Link:** [hapib-surprise-web.netlify.app](https://hapib-surprise-web.netlify.app/)
-* **Stack:** HTML, CSS, JavaScript
-
----
-
-### Performance Metrics
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=hey-chon&show_icons=true&theme=tokyonight&count_private=true" alt="Jimson's GitHub Stats" height="180px" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hey-chon&layout=compact&theme=tokyonight" alt="Top Languages" height="180px" />
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2F0c3R0Z2F0c3R0Z2F0c3R0Z2F0c3R0Z2F0c3R0Z2F0ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JIX9t2j0ZTN9S/giphy.gif" width="200" alt="Anime cat coding" />
 </p>
 
 ---
 
-### Contact & Network
-* **Portfolio:** [chon-dev-portfolio.netlify.app](https://chon-dev-portfolio.netlify.app/)
-* **Email:** ilogjimson1215@gmail.com
-* **Facebook:** [Jimson Ilog](https://www.facebook.com/defnot.chon)
-* **Instagram** [hey.chon](https://www.instagram.com/hey.chon?utm_source=qr)
+### 🛠️ Tech Stack & Tools
+
+**Frontend**  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+
+**Backend & Languages**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+**Design & Workflow**  
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Lovable](https://img.shields.io/badge/Lovable-FF6B6B?style=for-the-badge)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
+**AI-Assisted Development**  
+![Google Gemini](https://img.shields.io/badge/Gemini-8E75C2?style=for-the-badge&logo=googlegemini&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97706?style=for-the-badge&logo=anthropic&logoColor=white)
+![Grok](https://img.shields.io/badge/Grok-000000?style=for-the-badge&logo=x&logoColor=white)
+![Replit](https://img.shields.io/badge/Replit-66717F?style=for-the-badge&logo=replit&logoColor=white)
+![Antigravity](https://img.shields.io/badge/Antigravity-2D3748?style=for-the-badge)
+
+---
+
+### 🚀 Featured Projects
+
+| Project | Description | Live Demo | Stack |
+|---------|-------------|-----------|-------|
+| **Personal Portfolio** | My main portfolio showcasing projects, journey & skills | [chon.is-a.dev](https://chon.is-a.dev) | HTML · CSS · JS |
+| **WB.prjc** | Clean & modern personal website built as a training project — fully responsive with smooth scrolling & interactive menu | [wb-prjc.vercel.app](https://wb-prjc.vercel.app) | HTML · CSS · JS |
+| **Jera & Jimson Anniversary** | Interactive anniversary web app with personalized layouts & transitions | [Live](https://jera-jimson-anniv.netlify.app) | HTML · CSS · JS |
+| **Commission Surprise Web App** | Surprise web experience with interactive elements & custom animations | [Live](https://hapib-surprise-web.netlify.app) | HTML · CSS · JS |
+
+> More projects coming soon — check my repositories!
+
+---
+
+### 📊 GitHub Performance Metrics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hey-chon&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hey-chon&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="165" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hey-chon&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
+### 📬 Connect with Me
+
+- 🌐 **Portfolio**: [chon.is-a.dev](https://chon.is-a.dev)
+- 💼 **GitHub**: [hey-chon](https://github.com/hey-chon)
+- 📧 **Email**: [ilogchon500@gmail.com](mailto:ilogchon500@gmail.com)
+- 📘 **Facebook**: [Jimson Ilog](https://www.facebook.com/share/19FDZaMuvu/?mibextid=wwXIfr)
+- 📸 **Instagram**: [@hey.chon](https://www.instagram.com/hey.chon?igsh=aWc4djRjcXRtb25z&utm_source=qr)
+- 🎵 **TikTok**: [@defnot.chon_](https://www.tiktok.com/@defnot.chon_?_r=1&_t=ZS-98WSFByNl81)
+
+---
+
+### 💬 Let's Build Something Together
+
+I'm always open to learning opportunities, collaborations, and cool projects.  
+Feel free to reach out — whether it's a question, idea, or just to say hi!
+
+*"Among the countless users, be the developer."*
+
+---
+
+⭐️ From [hey-chon](https://github.com/hey-chon)
