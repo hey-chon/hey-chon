@@ -23,11 +23,11 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 Senior High School student specializing in **Information & Communication Technology (NCII)** at Cavite Community Academy Inc.
-- 💻 Focused on **front-end development** and currently expanding into back-end
-- ⚡ Fast learner, detail-oriented, and collaborative
-- 🏆 Consistent With Honors (Grade 7–10) · General averages: 94.25 | 93.00 | 94.30 | 93.25
-- 🌱 Always learning, always building
+-  Senior High School student specializing in **Information & Communication Technology (NCII)** at Cavite Community Academy Inc.
+-  Focused on **front-end development** and currently expanding into back-end
+-  Fast learner, detail-oriented, and collaborative
+-  Consistent With Honors (Grade 7–10) · General averages: 94.25 | 93.00 | 94.30 | 93.25
+-  Always learning, always building
 
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2F0c3R0Z2F0c3R0Z2F0c3R0Z2F0c3R0Z2F0c3R0Z2F0ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JIX9t2j0ZTN9S/giphy.gif" width="160" alt="Anime cat" />
