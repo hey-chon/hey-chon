@@ -104,5 +104,3 @@ Feel free to reach out — whether it's a question, idea, or just want to say hi
 *"Always learning, always building."*
 
 ---
-
-⭐️ From [hey-chon](https://github.com/hey-chon)
