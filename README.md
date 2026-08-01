@@ -1,5 +1,5 @@
 # About.Me
-—-
+<hr>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=hey-chon&label=Profile%20views&color=FF4C4C&style=flat-square" alt="Profile views" />
