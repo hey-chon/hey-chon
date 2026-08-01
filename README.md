@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  Passionate <b>Grade 11 ICT student</b> from <b>Naic, Cavite, Philippines</b>.<br>
+  Passionate <b>Grade 11 ICT student</b> from <b>Naic, Cavite, Philippines</b>.<br><br>
   I love building clean, responsive websites and continuously learning new technologies — especially with an AI-assisted workflow.<br><br>
   Currently holding <b>13+ web projects</b> and always open to collaboration, internships, and new challenges.
 </p>
