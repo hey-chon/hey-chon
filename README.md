@@ -1,22 +1,23 @@
 # Hi there, I'm Jimson Ilog 👋  
 ### *aka Chon* · Student Web Developer
 
-<p align="left">
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=hey-chon&label=Profile%20views&color=0cb4d8&style=flat-square" alt="Profile views" />
 </p>
 
-<!-- Typing Text -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=0CB4D8&center=false&vCenter=true&width=500&lines=Student+Web+Developer;Always+Learning+%26+Building;AI-Assisted+Workflow;Open+to+Collaborations)](https://git.io/typing-svg)
-
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbW1qZ2F0c3R0Z2F0c3R0Z2F0c3R0Z2F0c3R0Z2F0c3R0ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7btPCcdNniyf0ArS/giphy.gif" width="280" alt="Anime coding" />
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdG9wZ2F0c3R0Z2F0c3R0Z2F0c3R0Z2F0c3R0Z2F0c3R0ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0MYC0LajbaPoEA2Q/giphy.gif" width="280" alt="Anime wave" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=0CB4D8&center=true&vCenter=true&width=380&lines=Student+Web+Developer;Always+Learning+%26+Building;AI-Assisted+Workflow;Open+to+Collaborations" alt="Typing SVG" />
 </p>
 
-Passionate **Grade 11 ICT student** from **Naic, Cavite, Philippines**.  
-I love building clean, responsive websites and continuously learning new technologies — especially with an AI-assisted workflow.
+<p align="center">
+  <img src="https://media1.tenor.com/m/s9SFPCtn4OsAAAAC/denji-chainsaw-man.gif" width="280" alt="Denji Chainsaw Man" />
+</p>
 
-Currently holding **13+ web projects** and always open to collaboration, internships, and new challenges.
+<p align="center">
+  Passionate <b>Grade 11 ICT student</b> from <b>Naic, Cavite, Philippines</b>.<br>
+  I love building clean, responsive websites and continuously learning new technologies — especially with an AI-assisted workflow.<br><br>
+  Currently holding <b>13+ web projects</b> and always open to collaboration, internships, and new challenges.
+</p>
 
 ---
 
@@ -29,7 +30,7 @@ Currently holding **13+ web projects** and always open to collaboration, interns
 - 🌱 Always learning, always building
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2F0c3R0Z2F0c3R0Z2F0c3R0Z2F0c3R0Z2F0c3R0Z2F0ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JIX9t2j0ZTN9S/giphy.gif" width="200" alt="Anime cat coding" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2F0c3R0Z2F0c3R0Z2F0c3R0Z2F0c3R0Z2F0c3R0Z2F0ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JIX9t2j0ZTN9S/giphy.gif" width="160" alt="Anime cat" />
 </p>
 
 ---
@@ -69,20 +70,15 @@ Currently holding **13+ web projects** and always open to collaboration, interns
 | Project | Description | Live Demo | Stack |
 |---------|-------------|-----------|-------|
 | **Personal Portfolio** | My main portfolio showcasing projects, journey & skills | [chon.is-a.dev](https://chon.is-a.dev) | HTML · CSS · JS |
-| **WB.prjc** | Clean & modern personal website built as a training project — fully responsive with smooth scrolling & interactive menu | [wb-prjc.vercel.app](https://wb-prjc.vercel.app) | HTML · CSS · JS |
-| **Jera & Jimson Anniversary** | Interactive anniversary web app with personalized layouts & transitions | [Live](https://jera-jimson-anniv.netlify.app) | HTML · CSS · JS |
-| **Commission Surprise Web App** | Surprise web experience with interactive elements & custom animations | [Live](https://hapib-surprise-web.netlify.app) | HTML · CSS · JS |
+| **WB.prjc** | Clean & modern personal website built as a training project | [wb-prjc.vercel.app](https://wb-prjc.vercel.app) | HTML · CSS · JS |
+| **Jera & Jimson Anniversary** | Interactive anniversary web app with personalized layouts | [Live](https://jera-jimson-anniv.netlify.app) | HTML · CSS · JS |
+| **Commission Surprise Web App** | Surprise web experience with interactive elements & animations | [Live](https://hapib-surprise-web.netlify.app) | HTML · CSS · JS |
 
 > More projects coming soon — check my repositories!
 
 ---
 
 ### 📊 GitHub Performance Metrics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hey-chon&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hey-chon&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="165" alt="Top Languages" />
-</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=hey-chon&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
