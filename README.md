@@ -1,7 +1,7 @@
 # About.Me
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=hey-chon&label=Profile%20views&color=8B0000&style=flat-square" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=hey-chon&label=Profile%20views&color=FF4C4C&style=flat-square" alt="Profile views" />
 </p>
 
 <p align="center">
