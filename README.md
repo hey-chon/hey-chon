@@ -1,11 +1,11 @@
 # About.Me
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=hey-chon&label=Profile%20views&color=0cb4d8&style=flat-square" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=hey-chon&label=Profile%20views&color=8B0000&style=flat-square" alt="Profile views" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=0CB4D8&center=true&vCenter=true&width=380&lines=Student+Web+Developer;Always+Learning+%26+Building;AI-Assisted+Workflow;Open+to+Collaborations" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=8B0000&center=true&vCenter=true&width=400&lines=Student+Web+Developer;Always+Learning+%26+Building;AI-Assisted+Workflow;Open+to+Collaborations" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -73,7 +73,7 @@
 | **Jera & Jimson Anniversary** | Interactive anniversary web app with personalized layouts | [Live](https://jera-jimson-anniv.netlify.app) | HTML · CSS · JS |
 | **Commission Surprise Web App** | Surprise web experience with interactive elements & animations | [Live](https://hapib-surprise-web.netlify.app) | HTML · CSS · JS |
 
-> More projects coming soon — check my repositories!
+> More projects? — check my repositories!
 
 ---
 
@@ -99,7 +99,7 @@
 ### 💬 Let's Build Something Together
 
 I'm always open to learning opportunities, collaborations, and cool projects.  
-Feel free to reach out — whether it's a question, idea, or just to say hi!
+Feel free to reach out — whether it's a question, idea, or just want to say hi!
 
 *"Among the countless users, be the developer."*
 
