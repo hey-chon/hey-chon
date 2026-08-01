@@ -87,12 +87,12 @@
 
 ### 📬 Connect with Me
 
-- 🌐 **Portfolio**: [chon.is-a.dev](https://chon.is-a.dev)
-- 💼 **GitHub**: [hey-chon](https://github.com/hey-chon)
-- 📧 **Email**: [ilogchon500@gmail.com](mailto:ilogchon500@gmail.com)
-- 📘 **Facebook**: [Jimson Ilog](https://www.facebook.com/share/19FDZaMuvu/?mibextid=wwXIfr)
-- 📸 **Instagram**: [@hey.chon](https://www.instagram.com/hey.chon?igsh=aWc4djRjcXRtb25z&utm_source=qr)
-- 🎵 **TikTok**: [@defnot.chon_](https://www.tiktok.com/@defnot.chon_?_r=1&_t=ZS-98WSFByNl81)
+- **Portfolio**: [chon.is-a.dev](https://chon.is-a.dev)
+- **GitHub**: [hey-chon](https://github.com/hey-chon)
+- **Email**: [ilogchon500@gmail.com](mailto:ilogchon500@gmail.com)
+- **Facebook**: [Jimson Ilog](https://www.facebook.com/share/19FDZaMuvu/?mibextid=wwXIfr)
+- **Instagram**: [@hey.chon](https://www.instagram.com/hey.chon?igsh=aWc4djRjcXRtb25z&utm_source=qr)
+- **TikTok**: [@defnot.chon_](https://www.tiktok.com/@defnot.chon_?_r=1&_t=ZS-98WSFByNl81)
 
 ---
 
