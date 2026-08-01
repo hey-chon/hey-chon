@@ -1,5 +1,4 @@
-# Hello!
-### chon.dev
+# About.Me
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=hey-chon&label=Profile%20views&color=0cb4d8&style=flat-square" alt="Profile views" />
