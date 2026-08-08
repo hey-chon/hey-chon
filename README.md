@@ -1,9 +1,6 @@
 <div align="center">
 
-<table width="800">
-<tr><td align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FFFFFF&height=200&section=header&text=JIMSON ILOG&fontSize=50&fontColor=000000&fontAlignY=25&animation=twinkling" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FFFFFF&height=200&section=header&text=&fontSize=50&fontColor=000000&fontAlignY=25&animation=twinkling" width="100%" alt="" />
 
 <br><br>
 
@@ -104,8 +101,5 @@ I'm always open to learning opportunities, collaborations, and cool projects.
 Feel free to reach out — whether it's a question, idea, or just want to say hi!
 
 *"Always learning, always building."*
-
-</td></tr>
-</table>
 
 </div>
