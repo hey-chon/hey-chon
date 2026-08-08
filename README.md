@@ -20,7 +20,7 @@ Currently holding 13+ web projects and always open to collaboration, internships
 [![GitHub](https://img.shields.io/badge/GitHub-white?style=for-the-badge&logo=github&logoColor=black)](https://github.com/hey-chon)
 [![Email](https://img.shields.io/badge/Email-white?style=for-the-badge&logo=gmail&logoColor=black)](mailto:ilogchon500@gmail.com)
 
-<br><br>
+
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=FFFFFF&height=100&section=header&animation=twinkling" width="100%" alt="" />
 
