@@ -4,11 +4,12 @@
 
 <img src="https://komarev.com/ghpvc/?username=hey-chon&label=Profile%20views&color=000000&labelColor=000000&style=flat-square" alt="Profile views" />
 
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=1000&color=FFFFFF&center=true&vCenter=true&width=440&lines=Student+Web+Developer;Always+Learning+%26+Building;AI-Assisted+Workflow;Open+to+Collaborations" alt="Typing SVG" />
+
 <br><br>
 
 <img src="https://media1.tenor.com/m/s9SFPCtn4OsAAAAC/denji-chainsaw-man.gif" width="450" alt="Denji Chainsaw Man" />
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=1000&color=FFFFFF&center=true&vCenter=true&width=440&lines=Student+Web+Developer;Always+Learning+%26+Building;AI-Assisted+Workflow;Open+to+Collaborations" alt="Typing SVG" />
 
 <br><br>
 
