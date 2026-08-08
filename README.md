@@ -92,4 +92,5 @@ Feel free to reach out — whether it's a question, idea, or just want to say hi
 
 *"Always learning, always building."*
 
+<img src="https://streak-stats.demolab.com/?user=hey-chon&background=000000&border=000000&ring=FFFFFF&fire=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=999999&stroke=FFFFFF&hide_border=true" alt="GitHub Streak" />
 </div>
