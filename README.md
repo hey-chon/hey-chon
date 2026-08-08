@@ -1,14 +1,21 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FFFFFF&height=100&section=header&animation=twinkling" width="100%" alt="" />
+<table width="800">
+<tr><td align="center">
 
-<br>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FFFFFF&height=200&section=header&text=chon.dev&fontSize=50&fontColor=000000&fontAlignY=25&animation=twinkling" width="100%" alt="" />
+
+<br><br>
 
 <img src="https://komarev.com/ghpvc/?username=hey-chon&label=Profile%20views&color=000000&labelColor=000000&style=flat-square" alt="Profile views" />
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=1000&color=FFFFFF&center=true&vCenter=true&width=440&lines=Student+Web+Developer;Always+Learning+%26+Building;AI-Assisted+Workflow;Open+to+Collaborations" alt="Typing SVG" />
 
+<br><br>
+
 <img src="https://media1.tenor.com/m/s9SFPCtn4OsAAAAC/denji-chainsaw-man.gif" width="240" alt="Denji Chainsaw Man" />
+
+<br><br>
 
 Passionate Grade 11 ICT student from Naic, Cavite, Philippines. I love building clean, responsive websites and continuously learning new technologies — especially with an AI-assisted workflow.
 Currently holding 13+ web projects and always open to collaboration, internships, and new challenges.
@@ -17,7 +24,7 @@ Currently holding 13+ web projects and always open to collaboration, internships
 [![GitHub](https://img.shields.io/badge/GitHub-white?style=for-the-badge&logo=github&logoColor=black)](https://github.com/hey-chon)
 [![Email](https://img.shields.io/badge/Email-white?style=for-the-badge&logo=gmail&logoColor=black)](mailto:ilogchon500@gmail.com)
 
-<br>
+<br><br>
 
 ## About Me
 
@@ -62,9 +69,13 @@ Consistent With Honors, Grades 7–10 — general averages: 94.25 · 93.00 · 94
 
 <br>
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FFFFFF&height=100&section=footer&animation=twinkling" width="100%" alt="" />
+
 ## GitHub Performance Metrics
 
 <img src="https://streak-stats.demolab.com/?user=hey-chon&background=000000&border=000000&ring=FFFFFF&fire=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=999999&stroke=FFFFFF&hide_border=true" alt="GitHub Streak" />
+
+<br>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hey-chon/hey-chon/output/pacman-contribution-graph-dark.svg">
@@ -73,6 +84,8 @@ Consistent With Honors, Grades 7–10 — general averages: 94.25 · 93.00 · 94
 </picture>
 
 <br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FFFFFF&height=100&section=header&animation=twinkling" width="100%" alt="" />
 
 ## Connect with Me
 
@@ -83,7 +96,7 @@ Consistent With Honors, Grades 7–10 — general averages: 94.25 · 93.00 · 94
 [![Instagram](https://img.shields.io/badge/Instagram-white?style=for-the-badge&logo=instagram&logoColor=black)](https://www.instagram.com/hey.chon?igsh=aWc4djRjcXRtb25z&utm_source=qr)
 [![TikTok](https://img.shields.io/badge/TikTok-white?style=for-the-badge&logo=tiktok&logoColor=black)](https://www.tiktok.com/@defnot.chon_?_r=1&_t=ZS-98WSFByNl81)
 
-<br>
+<br><br>
 
 **Let's Build Something Together**
 
@@ -92,7 +105,7 @@ Feel free to reach out — whether it's a question, idea, or just want to say hi
 
 *"Always learning, always building."*
 
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FFFFFF&height=100&section=footer&animation=twinkling" width="100%" alt="" />
+</td></tr>
+</table>
 
 </div>
