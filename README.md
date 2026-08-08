@@ -21,7 +21,7 @@
 
 ---
 
-### 👨‍💻 About Me
+### About Me
 
 -  Senior High School student specializing in **Information & Communication Technology (NCII)** at Cavite Community Academy Inc.
 -  Focused on **front-end development** and currently expanding into back-end
@@ -34,7 +34,7 @@
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### Tech Stack & Tools
 
 **Frontend**  
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -64,7 +64,7 @@
 
 ---
 
-### 🚀 Featured Projects
+### Featured Projects
 
 | Project | Description | Live Demo | Stack |
 |---------|-------------|-----------|-------|
@@ -77,7 +77,7 @@
 
 ---
 
-### 📊 GitHub Performance Metrics
+### GitHub Performance Metrics
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=hey-chon&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
@@ -85,7 +85,7 @@
 
 ---
 
-### 💁 Connect with Me
+### Connect with Me
 
 - **Portfolio**: [chon.is-a.dev](https://chon.is-a.dev)
 - **GitHub**: [hey-chon](https://github.com/hey-chon)
@@ -96,7 +96,7 @@
 
 ---
 
-### 💬 Let's Build Something Together
+### Let's Build Something Together
 
 I'm always open to learning opportunities, collaborations, and cool projects.  
 Feel free to reach out — whether it's a question, idea, or just want to say hi!
