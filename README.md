@@ -66,6 +66,12 @@ Consistent With Honors, Grades 7–10 — general averages: 94.25 · 93.00 · 94
 
 <img src="https://streak-stats.demolab.com/?user=hey-chon&background=000000&border=000000&ring=FFFFFF&fire=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=999999&stroke=FFFFFF&hide_border=true" alt="GitHub Streak" />
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hey-chon/hey-chon/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hey-chon/hey-chon/output/pacman-contribution-graph.svg">
+  <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/hey-chon/hey-chon/output/pacman-contribution-graph.svg" width="100%">
+</picture>
+
 <br>
 
 ## Connect with Me
@@ -85,11 +91,5 @@ I'm always open to learning opportunities, collaborations, and cool projects.
 Feel free to reach out — whether it's a question, idea, or just want to say hi!
 
 *"Always learning, always building."*
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hey-chon/hey-chon/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hey-chon/hey-chon/output/pacman-contribution-graph.svg">
-  <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/hey-chon/hey-chon/output/pacman-contribution-graph.svg" width="100%">
-</picture>
 
 </div>
