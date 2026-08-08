@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FFFFFF&height=150&section=header&text=&fontSize=50&fontColor=000000&animation=twinkling" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FFFFFF&height=150&section=header&text=chon.dev&fontSize=50&fontColor=000000&animation=twinkling" width="100%" alt="" />
 
 <img src="https://komarev.com/ghpvc/?username=hey-chon&label=Profile%20views&color=000000&labelColor=000000&style=flat-square" alt="Profile views" />
 
