@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=60&duration=1500&pause=800&color=FFFFFF&background=000000FF&center=true&vCenter=true&multiline=true&width=500&height=100&lines=CHON;CHON;CHON" alt="Chon" />
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=000000&height=150&section=header&text=Chon&fontSize=50&fontColor=FFFFFF&animation=twinkling" width="100%" alt="Chon" />
 
 <img src="https://komarev.com/ghpvc/?username=hey-chon&label=Profile%20views&color=000000&labelColor=000000&style=flat-square" alt="Profile views" />
 
