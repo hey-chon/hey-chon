@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="https://komarev.com/ghpvc/?username=hey-chon&label=Profile%20views&color=000000&labelColor=000000&style=flat-square" alt="Profile views" />
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=FFFFFF&height=120&section=header&text=chon.dev&fontSize=40&fontColor=000000&fontAlignY=30&animation=twinkling" width="100%" alt="" />
 
 <br><br>
