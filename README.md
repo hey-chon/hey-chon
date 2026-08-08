@@ -3,7 +3,7 @@
 <table width="800">
 <tr><td align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FFFFFF&height=200&section=header&text=chon.dev&fontSize=50&fontColor=000000&fontAlignY=25&animation=twinkling" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FFFFFF&height=200&section=header&text=JIMSON ILOG&fontSize=50&fontColor=000000&fontAlignY=25&animation=twinkling" width="100%" alt="" />
 
 <br><br>
 
