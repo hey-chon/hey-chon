@@ -6,6 +6,8 @@
 
 <img src="https://komarev.com/ghpvc/?username=hey-chon&label=Profile%20views&color=000000&labelColor=000000&style=flat-square" alt="Profile views" />
 
+<br><br>
+
 <img src="https://media1.tenor.com/m/s9SFPCtn4OsAAAAC/denji-chainsaw-man.gif" width="450" alt="Denji Chainsaw Man" />
 
 <br><br>
