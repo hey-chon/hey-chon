@@ -12,6 +12,8 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=1000&color=FFFFFF&center=true&vCenter=true&width=440&lines=Student+Web+Developer;Always+Learning+%26+Building;AI-Assisted+Workflow;Open+to+Collaborations" alt="Typing SVG" />
 
+<br>
+
 Passionate Grade 11 ICT student from Naic, Cavite, Philippines. I love building clean, responsive websites and continuously learning new technologies — especially with an AI-assisted workflow.
 Currently holding 13+ web projects and always open to collaboration, internships, and new challenges.
 
