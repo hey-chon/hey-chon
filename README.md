@@ -10,7 +10,7 @@
 
 <br><br>
 
-<img src="https://media1.tenor.com/m/s9SFPCtn4OsAAAAC/denji-chainsaw-man.gif" width="240" alt="Denji Chainsaw Man" />
+<img src="https://media1.tenor.com/m/s9SFPCtn4OsAAAAC/denji-chainsaw-man.gif" width="600" alt="Denji Chainsaw Man" />
 
 <br><br>
 
