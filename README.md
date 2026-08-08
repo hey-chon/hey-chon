@@ -86,4 +86,6 @@ Feel free to reach out — whether it's a question, idea, or just want to say hi
 
 *"Always learning, always building."*
 
+<img src="https://raw.githubusercontent.com/hey-chon/hey-chon/output/pacman-contribution-graph.svg" width="100%" alt="Pacman contribution graph" />
+
 </div>
