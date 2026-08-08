@@ -2,7 +2,7 @@
 
 # Chon
 
-<img src="https://komarev.com/ghpvc/?username=hey-chon&label=Profile%20views&color=white&labelColor=black&style=for-the-badge" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=hey-chon&label=Profile%20views&color=FFFFFF&labelColor=000000&style=for-the-badge" alt="Profile views" />
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=2800&pause=1000&color=0EA5E9&center=true&vCenter=true&width=440&lines=Student+Web+Developer;Always+Learning+%26+Building;AI-Assisted+Workflow;Open+to+Collaborations" alt="Typing SVG" />
 
