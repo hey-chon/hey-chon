@@ -22,6 +22,8 @@ Currently holding 13+ web projects and always open to collaboration, internships
 
 <br><br>
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FFFFFF&height=100&section=header&animation=twinkling" width="100%" alt="" />
+
 ## About Me
 
 Senior High School student specializing in **Information & Communication Technology (NC II)** at Cavite Community Academy Inc.
