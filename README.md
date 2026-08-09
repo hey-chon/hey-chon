@@ -81,12 +81,12 @@ Consistent With Honors, Grades 7–10 — general averages: 94.25 · 93.00 · 94
 [![Portfolio](https://img.shields.io/badge/Portfolio-white?style=for-the-badge&logoColor=black)](https://chon.is-a.dev)
 [![Github](https://img.shields.io/badge/Github-white?style=for-the-badge&logo=github&logoColor=black)](https://github.com/hey-chon)
 [![Email](https://img.shields.io/badge/Email-white?style=for-the-badge&logo=gmail&logoColor=black)](mailto:ilogchon500@gmail.com)
-[![Credly](https://img.shields.io/badge/Credly-white?style=for-the-badge&logoColor=black)](https://www.credly.com/users/chon-ilog)
+[![Credly](https://img.shields.io/badge/Credly-white?style=for-the-badge&logo=credly&logoColor=black)](https://www.credly.com/users/chon-ilog)
 [![Facebook](https://img.shields.io/badge/Facebook-white?style=for-the-badge&logo=facebook&logoColor=black)](https://www.facebook.com/share/19FDZaMuvu/?mibextid=wwXIfr)
 [![Instagram](https://img.shields.io/badge/Instagram-white?style=for-the-badge&logo=instagram&logoColor=black)](https://www.instagram.com/hey.chon?igsh=aWc4djRjcXRtb25z&utm_source=qr)
 [![Tiktok](https://img.shields.io/badge/Tiktok-white?style=for-the-badge&logo=tiktok&logoColor=black)](https://www.tiktok.com/@defnot.chon_?_r=1&_t=ZS-98WSFByNl81)
 
-<br><br>
+<br>
 
 **Let's Build Something Together**
 
