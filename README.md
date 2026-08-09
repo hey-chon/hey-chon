@@ -33,14 +33,6 @@ Consistent With Honors, Grades 7–10 — general averages: 94.25 · 93.00 · 94
 
 <br>
 
-<p align="center">
-  <a href="https://www.credly.com/users/chon-ilog">
-    <img src="https://img.shields.io/badge/MY%20CREDLY-white?style=for-the-badge&logoColor=black" alt="My Credly" />
-  </a>
-</p>
-
-<br>
-
 ## Tech Stack & Tools
 
 <p align="center">
