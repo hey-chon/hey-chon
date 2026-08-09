@@ -37,11 +37,11 @@ Consistent With Honors, Grades 7–10 — general averages: 94.25 · 93.00 · 94
 
 <p align="center">
   <a href="https://www.credly.com/users/chon-ilog">
-    <img src="LINK_TO_IBM_BADGE" alt="AI Fundamentals: Foundations for Understanding AI - IBM SkillsBuild" width="160" />
+    <img src="LINK_TO_IBM_BADGE" alt="AI Fundamentals: Foundations for Understanding AI - IBM SkillsBuild" width="120" />
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.credly.com/users/chon-ilog">
-    <img src="LINK_TO_CISCO_BADGE" alt="HTML Essentials - Cisco Networking Academy" width="160" />
+    <img src="LINK_TO_CISCO_BADGE" alt="HTML Essentials - Cisco Networking Academy" width="120" />
   </a>
 </p>
 
