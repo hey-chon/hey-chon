@@ -22,7 +22,7 @@ Currently holding 13+ web projects and always open to collaboration, internships
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FFFFFF&height=100&section=header&animation=twinkling" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FFFFFF&height=100&section=footer&animation=twinkling" width="100%" alt="" />
 
 ## About Me
 
