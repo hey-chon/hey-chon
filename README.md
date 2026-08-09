@@ -22,7 +22,7 @@ Currently holding 13+ web projects and always open to collaboration, internships
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FFFFFF&height=100&section=footer&animation=twinkling" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FFFFFF&height=100&section=header&animation=twinkling" width="100%" alt="" />
 
 ## About Me
 
@@ -32,26 +32,6 @@ Fast learner, detail-oriented, and collaborative.
 Consistent With Honors, Grades 7–10 — general averages: 94.25 · 93.00 · 94.30 · 93.25
 
 <br>
-
-## Credentials
-
-<p align="center">
-  <a href="https://www.credly.com/users/chon-ilog">
-    <img src="LINK_TO_IBM_BADGE" alt="AI Fundamentals: Foundations for Understanding AI - IBM SkillsBuild" width="120" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.credly.com/users/chon-ilog">
-    <img src="LINK_TO_CISCO_BADGE" alt="HTML Essentials - Cisco Networking Academy" width="120" />
-  </a>
-</p>
-
-<br>
-
-<p align="center">
-  <a href="https://www.credly.com/users/chon-ilog">
-    <img src="https://img.shields.io/badge/MY%20CREDLY-white?style=for-the-badge&logoColor=black" alt="My Credly" />
-  </a>
-</p>
 
 ## Tech Stack & Tools
 
