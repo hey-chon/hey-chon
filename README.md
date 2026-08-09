@@ -33,6 +33,26 @@ Consistent With Honors, Grades 7–10 — general averages: 94.25 · 93.00 · 94
 
 <br>
 
+## Credentials
+
+<p align="center">
+  <a href="https://www.credly.com/users/chon-ilog">
+    <img src="LINK_TO_IBM_BADGE" alt="AI Fundamentals: Foundations for Understanding AI - IBM SkillsBuild" width="160" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.credly.com/users/chon-ilog">
+    <img src="LINK_TO_CISCO_BADGE" alt="HTML Essentials - Cisco Networking Academy" width="160" />
+  </a>
+</p>
+
+<br>
+
+<p align="center">
+  <a href="https://www.credly.com/users/chon-ilog">
+    <img src="https://img.shields.io/badge/MY%20CREDLY-white?style=for-the-badge&logoColor=black" alt="My Credly" />
+  </a>
+</p>
+
 ## Tech Stack & Tools
 
 <p align="center">
