@@ -86,7 +86,7 @@ Consistent With Honors, Grades 7–10 — general averages: 94.25 · 93.00 · 94
 [![Instagram](https://img.shields.io/badge/Instagram-white?style=for-the-badge&logo=instagram&logoColor=black)](https://www.instagram.com/hey.chon?igsh=aWc4djRjcXRtb25z&utm_source=qr)
 [![Tiktok](https://img.shields.io/badge/Tiktok-white?style=for-the-badge&logo=tiktok&logoColor=black)](https://www.tiktok.com/@defnot.chon_?_r=1&_t=ZS-98WSFByNl81)
 
-<br><br>
+<br>
 
 **Let's Build Something Together**
 
