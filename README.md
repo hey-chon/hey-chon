@@ -9,7 +9,8 @@
 
 <img src="https://media1.tenor.com/m/s9SFPCtn4OsAAAAC/denji-chainsaw-man.gif" width="450" alt="Denji Chainsaw Man" />
 <br><br>
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=1000&color=FFFFFF&center=true&vCenter=true&width=440&lines=Student+Web+Developer;Always+Learning+%26+Building;AI-Assisted+Workflow;Open+to+Collaborations" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=1000&color=FFFFFF&center=true&vCenter=true&width=440&lines=Student+Web+Developer;Always+Learning+%26+Building;AI-Assisted+Workflow;Open+to+Collaborations#gh-dark-mode-only" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=1000&color=000000&center=true&vCenter=true&width=440&lines=Student+Web+Developer;Always+Learning+%26+Building;AI-Assisted+Workflow;Open+to+Collaborations#gh-light-mode-only" alt="Typing SVG" />
 
 <br>
 
@@ -62,7 +63,8 @@ Consistent With Honors, Grades 7–10 — general averages: 94.25 · 93.00 · 94
 
 ## GitHub Performance Metrics
 
-<img src="https://github-readme-streak-stats-eight.vercel.app/?user=hey-chon&theme=dark&hide_border=true&background=000000&ring=FFFFFF&fire=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=999999" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats-eight.vercel.app/?user=hey-chon&theme=dark&hide_border=true&background=00000000&ring=FFFFFF&fire=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=999999#gh-dark-mode-only" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats-eight.vercel.app/?user=hey-chon&theme=default&hide_border=true&background=00000000&ring=000000&fire=000000&currStreakNum=000000&sideNums=000000&currStreakLabel=000000&sideLabels=000000&dates=666666#gh-light-mode-only" alt="GitHub Streak" />
 
 <br>
 
