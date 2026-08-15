@@ -22,7 +22,7 @@ Currently holding 13+ web projects and always open to collaboration, internships
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FFFFFF&height=100&section=header&animation=twinkling" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=DAD8C9&height=100&section=header&animation=twinkling" width="100%" alt="" />
 
 ## About Me
 
@@ -58,7 +58,7 @@ Consistent With Honors, Grades 7–10 — general averages: 94.25 · 93.00 · 94
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FFFFFF&height=100&section=footer&animation=twinkling" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=DAD8C9&height=100&section=footer&animation=twinkling" width="100%" alt="" />
 
 ## GitHub Performance Metrics
 
@@ -74,7 +74,7 @@ Consistent With Honors, Grades 7–10 — general averages: 94.25 · 93.00 · 94
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FFFFFF&height=100&section=header&animation=twinkling" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=DAD8C9&height=100&section=header&animation=twinkling" width="100%" alt="" />
 
 ## Connect with Me
 
