@@ -16,7 +16,7 @@
 Passionate Grade 11 ICT student from Naic, Cavite, Philippines. I love building clean, responsive websites and continuously learning new technologies — especially with an AI-assisted workflow.
 Currently holding 13+ web projects and always open to collaboration, internships, and new challenges.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-808080?style=for-the-badge&logoColor=black)](https://chon.is-a.dev)
+[![Portfolio](https://img.shields.io/badge/Portfolio-DAD8C9?style=for-the-badge&logoColor=black)](https://chon.is-a.dev)
 [![GitHub](https://img.shields.io/badge/GitHub-808080?style=for-the-badge&logo=github&logoColor=black)](https://github.com/hey-chon)
 [![Email](https://img.shields.io/badge/Email-808080?style=for-the-badge&logo=gmail&logoColor=black)](mailto:ilogchon500@gmail.com)
 
