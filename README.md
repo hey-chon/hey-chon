@@ -62,7 +62,7 @@ Consistent With Honors, Grades 7–10 — general averages: 94.25 · 93.00 · 94
 
 ## GitHub Performance Metrics
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=hey-chon&theme=dark&hide_border=true&background=000000&ring=FFFFFF&fire=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=999999" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com/?user=hey-chon&theme=dark&hide_border=true&background=000000&ring=FFFFFF&fire=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=999999" alt="GitHub Streak" />
 
 <br>
 
