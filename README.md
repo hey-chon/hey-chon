@@ -96,6 +96,3 @@ Feel free to reach out — whether it's a question, idea, or just want to say hi
 *"Always learning, always building."*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=DAD8C9&height=120&section=footer&text=&fontSize=40&fontColor=000000&fontAlignY=30&animation=twinkling" width="100%" alt="" />
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=DAD8C9&height=120&section=header&text=&fontSize=40&fontColor=000000&fontAlignY=30&animation=twinkling" width="100%" alt="" />
-
