@@ -78,7 +78,7 @@ Consistent With Honors, Grades 7–10 — general averages: 94.25 · 93.00 · 94
 
 ## Connect with Me
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-DAD8C9?style=for-the-badge&logoColor=black)](https://chon.is-a.dev)
+[![Portfolio](https://img.shields.io/badge/Portfolio-DAD8C9?style=for-the-badge&logoColor=black)](https://chon-vert.vercel.app)
 [![Github](https://img.shields.io/badge/Github-DAD8C9?style=for-the-badge&logo=github&logoColor=black)](https://github.com/hey-chon)
 [![Email](https://img.shields.io/badge/Email-DAD8C9?style=for-the-badge&logo=gmail&logoColor=black)](mailto:ilogchon500@gmail.com)
 [![Credly](https://img.shields.io/badge/Credly-DAD8C9?style=for-the-badge&logo=credly&logoColor=black)](https://www.credly.com/users/chon-ilog)
