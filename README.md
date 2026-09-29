@@ -69,7 +69,7 @@ Consistent With Honors, Grades 7–10 — general averages: 94.25 · 93.00 · 94
   <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/hey-chon/hey-chon/output/pacman-contribution-graph.svg" width="55%">
 </picture>
 
-<br>
+<br><br>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=DAD8C9&height=100&section=header&animation=twinkling" width="100%" alt="" />
 
