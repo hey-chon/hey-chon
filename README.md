@@ -62,11 +62,11 @@ Consistent With Honors, Grades 7–10 — general averages: 94.25 · 93.00 · 94
 
 ## GitHub Performance Metrics
 <img src="https://github-readme-streak-stats-eight.vercel.app/?user=hey-chon&theme=dark&hide_border=true&background=000000&ring=FFFFFF&fire=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=999999" alt="GitHub Streak" />
-<br>
+<br><br><br>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hey-chon/hey-chon/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hey-chon/hey-chon/output/pacman-contribution-graph.svg">
-  <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/hey-chon/hey-chon/output/pacman-contribution-graph.svg" width="70%">
+  <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/hey-chon/hey-chon/output/pacman-contribution-graph.svg" width="55%">
 </picture>
 
 <br>
