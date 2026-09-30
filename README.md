@@ -87,14 +87,6 @@
 [![Facebook](https://img.shields.io/badge/Facebook-DAD8C9?style=for-the-badge&logo=facebook&logoColor=black)](https://www.facebook.com/share/19FDZaMuvu/?mibextid=wwXIfr)
 [![Instagram](https://img.shields.io/badge/Instagram-DAD8C9?style=for-the-badge&logo=instagram&logoColor=black)](https://www.instagram.com/hey.chon?igsh=aWc4djRjcXRtb25z&utm_source=qr)
 [![Tiktok](https://img.shields.io/badge/Tiktok-DAD8C9?style=for-the-badge&logo=tiktok&logoColor=black)](https://www.tiktok.com/@defnot.chon_?_r=1&_t=ZS-98WSFByNl81)
-
 <br>
-
-**Let's Build Something Together**
-
-I'm always open to learning opportunities, collaborations, and cool projects.
-Feel free to reach out — whether it's a question, idea, or just want to say hi!
-
-*"Always learning, always building."*
-
+**"Always learning, always building."**
 <img src="https://capsule-render.vercel.app/api?type=waving&color=DAD8C9&height=120&section=footer&text=&fontSize=40&fontColor=000000&fontAlignY=30&animation=twinkling" width="100%" alt="" />
