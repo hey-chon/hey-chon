@@ -7,7 +7,7 @@
 
 <br><br>
 
-<img src="https://media1.tenor.com/m/s9SFPCtn4OsAAAAC/denji-chainsaw-man.gif" width="450" alt="Denji Chainsaw Man" />
+<iframe src="https://assets.pinterest.com/ext/embed.html?id=892205376194009251" height="233" width="236" frameborder="0" scrolling="no" ></iframe>
 <br><br>
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=1000&color=DAD8C9&center=true&vCenter=true&width=440&lines=Student+Web+Developer;Always+Learning+%26+Building;AI-Assisted+Workflow;Open+to+Collaborations" alt="Typing SVG" />
 
