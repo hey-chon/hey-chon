@@ -13,8 +13,10 @@
 
 <br>
 
-Passionate Grade 11 ICT student from Naic, Cavite, Philippines. I love building clean, responsive websites and continuously learning new technologies — especially with an AI-assisted workflow.
-Currently holding 13+ web projects and always open to collaboration, internships, and new challenges.
+**Computer Systems Servicing (NC II)** student from **Cavite, Philippines**.  
+I have experience in **web development**, with strong **front-end** skills and **basic back-end** knowledge.  
+I’ve already built **13+ websites** and continue to expand my knowledge and skills.  
+I’ve also completed numerous **online courses with DigiCerts** to continuously improve and stay consistent in this career path.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-DAD8C9?style=for-the-badge&logoColor=black)](https://chon-vert.vercel.app)
 [![GitHub](https://img.shields.io/badge/GitHub-DAD8C9?style=for-the-badge&logo=github&logoColor=black)](https://github.com/hey-chon)
