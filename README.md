@@ -8,7 +8,7 @@
 <br><br>
 
 <p align="center">
-  <img src="rage_mode-ezgif.com-optimize.gif" width="350" alt="rage mode" />
+  <img src="rage_mode-ezgif.com-optimize.gif" width="360" alt="rage mode" />
 </p>
 
 <br>
