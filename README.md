@@ -11,7 +11,7 @@
   <img src="rage_mode-ezgif.com-optimize.gif" width="350" alt="rage mode" />
 </p>
 
-<br><br>
+<br>
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=1000&color=DAD8C9&center=true&vCenter=true&width=440&lines=Student+Web+Developer;Always+Learning+%26+Building;AI-Assisted+Workflow;Open+to+Collaborations" alt="Typing SVG" />
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-DAD8C9?style=for-the-badge&logoColor=black)](https://chon-vert.vercel.app)
