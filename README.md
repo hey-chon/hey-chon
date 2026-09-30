@@ -63,7 +63,7 @@ Consistent With Honors, Grades 7–10 — general averages: 94.25 · 93.00 · 94
 ## GitHub Performance Metrics
 <img src="https://github-readme-streak-stats-eight.vercel.app/?user=hey-chon&theme=dark&hide_border=true&background=000000&ring=FFFFFF&fire=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=999999" alt="GitHub Streak" />
 
-<br><br>
+<br>
 
 <!-- GitHub Stats + Most Used Languages (side by side) -->
 <p align="center">
@@ -82,7 +82,7 @@ Consistent With Honors, Grades 7–10 — general averages: 94.25 · 93.00 · 94
   </picture>
 </p>
 
-<br><br>
+<br>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=DAD8C9&height=100&section=header&animation=twinkling" width="100%" alt="" />
 
