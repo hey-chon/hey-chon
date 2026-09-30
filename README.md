@@ -71,6 +71,14 @@ Consistent With Honors, Grades 7–10 — general averages: 94.25 · 93.00 · 94
 
 <br><br>
 
+<!-- GitHub Stats -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hey-chon&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&ring_color=FFFFFF" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hey-chon&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF" height="165" alt="Most Used Languages" />
+</p>
+
+<br><br>
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=DAD8C9&height=100&section=header&animation=twinkling" width="100%" alt="" />
 
 ## Connect with Me
