@@ -72,12 +72,12 @@ Consistent With Honors, Grades 7–10 — general averages: 94.25 · 93.00 · 94
 
 <br>
 
-<!-- GitHub Contributions (Pacman) -->
+<!-- GitHub Contributions (Pacman) - bigger -->
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hey-chon/hey-chon/output/pacman-contribution-graph-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hey-chon/hey-chon/output/pacman-contribution-graph.svg">
-    <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/hey-chon/hey-chon/output/pacman-contribution-graph.svg" width="480">
+    <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/hey-chon/hey-chon/output/pacman-contribution-graph.svg" width="75%">
   </picture>
 </p>
 
