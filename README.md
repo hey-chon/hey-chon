@@ -89,6 +89,6 @@
 [![Tiktok](https://img.shields.io/badge/Tiktok-DAD8C9?style=for-the-badge&logo=tiktok&logoColor=black)](https://www.tiktok.com/@defnot.chon_?_r=1&_t=ZS-98WSFByNl81)
 <br>
 
-*"To God be the Glory!"*
+*"To God be the Glory"*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=DAD8C9&height=120&section=footer&text=&fontSize=40&fontColor=000000&fontAlignY=30&animation=twinkling" width="100%" alt="" />
