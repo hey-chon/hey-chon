@@ -11,15 +11,6 @@
 <br><br>
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=1000&color=DAD8C9&center=true&vCenter=true&width=440&lines=Student+Web+Developer;Always+Learning+%26+Building;AI-Assisted+Workflow;Open+to+Collaborations" alt="Typing SVG" />
 
-<br>
-  
-<p align="justify">
-  <b>Computer Systems Servicing (NC II)</b> student from <b>Cavite, Philippines</b>. 
-  I have experience in <b>web development</b>, with strong <b>front-end</b> skills and <b>basic back-end</b> knowledge. 
-  I’ve already built <b>13+ websites</b> and continue to expand my knowledge and skills. 
-  I’ve also completed numerous <b>online courses with DigiCerts</b> to continuously improve and stay consistent in this career path.
-</p>
-
 [![Portfolio](https://img.shields.io/badge/Portfolio-DAD8C9?style=for-the-badge&logoColor=black)](https://chon-vert.vercel.app)
 [![GitHub](https://img.shields.io/badge/GitHub-DAD8C9?style=for-the-badge&logo=github&logoColor=black)](https://github.com/hey-chon)
 [![Email](https://img.shields.io/badge/Email-DAD8C9?style=for-the-badge&logo=gmail&logoColor=black)](mailto:ilogchon500@gmail.com)
