@@ -23,7 +23,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=DAD8C9&height=100&section=header&animation=twinkling" width="100%" alt="" />
 
 ## About Me
-
+<br>
 **Computer Systems Servicing (NC II)** student from **Cavite, Philippines**. I have experience in **web development**, **front-end** skills and **basic back-end** — I’ve already built **13+ websites** and continuing to expand my knowledge and skills. I’ve also completed numerous **online courses with DigiCerts** to continuously improve and stay consistent in this career path.
 
 <br>
