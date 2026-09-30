@@ -21,10 +21,12 @@
 
 ## About Me
 
-Senior High School student specializing in **Information & Communication Technology (NC II)** at Cavite Community Academy Inc.
-Focused on **front-end development** and currently expanding into back-end.
-Fast learner, detail-oriented, and collaborative.
-Consistent With Honors, Grades 7–10 — general averages: 94.25 · 93.00 · 94.30 · 93.25
+## About Me
+
+**Computer Systems Servicing (NC II)** student from **Cavite, Philippines**.  
+I have experience in **web development**, with strong **front-end** skills and **basic back-end** knowledge.  
+I’ve already built **13+ websites** and continue to expand my knowledge and skills.  
+I’ve also completed numerous **online courses with DigiCerts** to continuously improve and stay consistent in this career path.
 
 <br>
 
