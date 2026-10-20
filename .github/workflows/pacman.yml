@@ -18,8 +18,8 @@ jobs:
         id: snake
         with:
           github_user_name: hey-chon
-          outputs: |
-            dist/github-contribution-grid-snake-dark.svg?color_snake=%23ffffff&color_dots=%23111111,%23333333,%23666666,%23999999,%23ffffff
+            outputs: |
+  dist/github-contribution-grid-snake.svg?palette=github-light&color_snake=%23000000&color_dots=%23ebedf0,%239be9a8,%2340c463,%2330a14e,%23216e39
 
       - uses: crazy-max/ghaction-github-pages@v4
         with:
