@@ -24,7 +24,7 @@
 
 ## About Me
 
-**Computer Systems Servicing (NC II)** student from **Cavite, Philippines**. I have experience in **web development**, **front-end** skills and **basic back-end** — I’ve already built **13+ websites** and continuing to expand my knowledge and skills. I’ve also completed numerous **online courses with DigiCerts** to continuously improve and stay consistent in this career path.
+**Computer Systems Servicing (NC II)** student from **Cavite, Philippines**. I have experience in **web development**, **front-end** skills and **basic back-end** — I’ve already built **lots of websites** and continuing to expand my knowledge and skills. I’ve also completed numerous **online courses with DigiCerts** to continuously improve and stay consistent in this career path.
 
 <br>
 
