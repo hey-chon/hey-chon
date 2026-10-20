@@ -68,13 +68,9 @@
 
 <br>
 
-<!-- GitHub Contributions (Pacman) -->
+<!-- GitHub Contributions (Snake) -->
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hey-chon/hey-chon/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hey-chon/hey-chon/output/pacman-contribution-graph.svg">
-    <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/hey-chon/hey-chon/output/pacman-contribution-graph.svg" width="480">
-  </picture>
+  <img width="100%" src="https://raw.githubusercontent.com/hey-chon/hey-chon/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 <br>
