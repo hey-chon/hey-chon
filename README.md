@@ -70,7 +70,7 @@
 
 <!-- GitHub Contributions (Snake) -->
 <p align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/hey-chon/hey-chon/output/github-contribution-grid-snake-dark.svg" />
+  <img width="1000" src="https://raw.githubusercontent.com/hey-chon/hey-chon/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
 </p>
 
 <br>
