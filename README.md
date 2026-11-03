@@ -56,7 +56,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=DAD8C9&height=100&section=footer&animation=twinkling" width="100%" alt="" />
 
 ## GitHub Performance Metrics
-<img src="https://github-readme-streak-stats-eight.vercel.app/?user=hey-chon&theme=dark&hide_border=true&background=000000&ring=FFFFFF&fire=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=999999" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com/?user=hey-chon&theme=dark&hide_border=true&background=000000&ring=FFFFFF&fire=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=999999" alt="GitHub Streak" />
 
 <br>
 
